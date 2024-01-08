@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://pixabay.com/vectors/computer-office-desk-sign-typing-146330" width="100"/>
+  <img src="https://pixabay.com/vectors/computer-office-desk-sign-typing-146330/" width="100"/>
 </div>
 
 <div id="badges">
