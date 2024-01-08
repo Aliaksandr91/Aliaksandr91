@@ -15,9 +15,13 @@
 hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 </div>
+
 [![Profile badge](https://www.codewars.com/users/AlexHorbach/badges/large)](https://www.codewars.com/users/AlexHorbach)
+
 ### :speaking_head: About Me :
+
 
 
 
