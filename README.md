@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/aliakhorbach">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-    <a href="https://www.instagram.com/fuuuuunculture/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.instagram.com/fuuuuunculture">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
   </a>
+  
   
 </div>
 <h1>
