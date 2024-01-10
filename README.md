@@ -1,10 +1,11 @@
 <div id="header" align="center">
 <h1>
-hey there
+Hello there!  I'm Aliaksandr Horbach, a passionate frontend developer . My expertise lies in crafting dynamic and responsive web applications using React
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 <div id="badges">
+### 📫 Get in touch:  
 <a href="https://www.linkedin.com/in/aliakhorbach">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -12,6 +13,7 @@ hey there
 <a href="https://www.instagram.com/fuuuuunculture">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
 </a>
+
 </div>
 </div>
 
@@ -29,9 +31,11 @@ hey there
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### :speaking_head: About Me :
 [![Profile badge](https://www.codewars.com/users/AlexHorbach/badges/large)](https://www.codewars.com/users/AlexHorbach)
+### :speaking_head: About Me :
+
+### ✨ Interests:
+Apart from coding, I love exploring new places and cultures through travel. I find joy in bringing creative ideas to life through web development and constantly seek to enhance my skills in the ever-evolving tech landscape.
 
 
 
