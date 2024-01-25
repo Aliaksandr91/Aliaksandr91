@@ -1,21 +1,21 @@
-<div id="header" align="center">
+<div id="header" align="justify">
 <h1>
-Hello there!  I'm Aliaksandr Horbach, a passionate frontend developer . My expertise lies in crafting dynamic and responsive web applications using React
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hello there!  I'm Aliaksandr Horbach <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+Frontend enthusiast building magic with React ✨. Let's turn ideas into pixels and create exceptional user experiences together! 🚀
+
 </h1>
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+</div>
 ### :mailbox: Get in touch: :    
 <div id="badges">
 <a href="https://www.linkedin.com/in/aliakhorbach">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<br>
+
 <a href="https://www.instagram.com/fuuuuunculture">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
 </a>
 </div>
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
